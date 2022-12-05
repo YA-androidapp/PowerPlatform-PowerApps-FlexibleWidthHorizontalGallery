@@ -1,0 +1,2 @@
+# PowerPlatform-PowerApps-FlexibleWidthHorizontalGallery
+ Power Apps キャンバスアプリで実装した幅可変の水平ギャラリー
